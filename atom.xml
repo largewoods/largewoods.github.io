@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://largewoods.github.io/atom.xml" rel="self"/>
   <link href="http://largewoods.github.io/"/>
-  <updated>2016-08-20T19:18:20+08:00</updated>
+  <updated>2016-08-20T19:50:57+08:00</updated>
   <id>http://largewoods.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://largewoods.github.io/blog/2016/08/20/hello-world/"/>
+    <updated>2016-08-20T19:47:28+08:00</updated>
+    <id>http://largewoods.github.io/blog/2016/08/20/hello-world</id>
+    <content type="html"><![CDATA[<p>This is my first post by Octopress. A new travel will begin.</p>
+]]></content>
+  </entry>
   
 </feed>
